@@ -9,7 +9,7 @@ on:
       resourceGroupName:
         required: true
         type: string
-      reqiewApiUrl:
+      reviewApiUrl:
         required: true
         type: string
     secrets:
